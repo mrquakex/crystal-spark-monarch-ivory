@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "JARVIS",
+      "hasCanvas": false,
+      "bodyTextLen": 32,
+      "bodyTextHash": "51f0f98169927c70424c1f50e8b620bf5d358e52126f7cee05a931026fa42646",
+      "bodyTextPrefix": "J.A.R.V.I.S. SİSTEM BAŞLATILIYOR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "JARVIS",
+      "hasCanvas": false,
+      "bodyTextLen": 32,
+      "bodyTextHash": "51f0f98169927c70424c1f50e8b620bf5d358e52126f7cee05a931026fa42646",
+      "bodyTextPrefix": "J.A.R.V.I.S. SİSTEM BAŞLATILIYOR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
